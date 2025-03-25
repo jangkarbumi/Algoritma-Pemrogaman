@@ -1,0 +1,9 @@
+Source code library yang ada pada ppt praktikum pertemuan kelima.
+
+Untuk menjalankan Main.c, ikuti langkah langkah berikut.
+
+- Masukkan ketiga file di atas ke dalam satu folder buka VS Code dan masuk ke dalam foldernya
+- Buka build-in terminal VS Code dengan menekan ctrl + `
+- Pada terminal, ketik "gcc -c MINMAX.c -o MINMAX.o" lalu enter.
+- Selanjutnya ketik "gcc Main.c -L. -lMINMAX -o Main" lalu enter
+- Ketik "./Main" lalu enter.
