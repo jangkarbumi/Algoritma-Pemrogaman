@@ -1,0 +1,5 @@
+Untuk compile:
+gcc namaFileUtama.c namaLibrary.c -o namaFileUtama
+
+Lalu jalankan:
+./namaFileUtama
