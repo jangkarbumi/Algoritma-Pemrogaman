@@ -62,5 +62,5 @@ int main() {
     for (int i = 0; i < maxSize; i++) {
         printf("%d", result[i]);
     }
-    printf("\n");
+
 }
